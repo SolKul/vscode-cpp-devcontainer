@@ -6,7 +6,7 @@
     "service": "cpp",
     "extensions": [
         "ms-vscode.cpptools",
-        "vector-of-bool.cmake-tools",
+        "ms-vscode.cmake-tools",
         "twxs.cmake"
     ],
     // 社内プロキシなどで、拡張機能がインストールできない場合にコメントを外す
